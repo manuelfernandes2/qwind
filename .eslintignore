@@ -1,0 +1,10 @@
+**/*.log
+**/.DS_Store
+*.
+.vscode/settings.json
+.history
+.yarn
+bazel-*
+bazel-bin
+bazel-out
+bazel-qwik
