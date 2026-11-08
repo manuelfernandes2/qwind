@@ -8,3 +8,13 @@ bazel-*
 bazel-bin
 bazel-out
 bazel-qwik
+bazel-testlogs
+dist
+dist-dev
+lib
+lib-types
+etc
+external
+node_modules
+temp
+tsc-out
